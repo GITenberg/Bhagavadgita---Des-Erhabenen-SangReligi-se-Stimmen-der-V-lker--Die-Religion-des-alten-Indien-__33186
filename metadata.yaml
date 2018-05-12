@@ -1,0 +1,35 @@
+_repo: Bhagavadgita---Des-Erhabenen-SangReligi-se-Stimmen-der-V-lker--Die-Religion-des-alten-Indien-__33186
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schroeder, Leopold von
+    aliases:
+    - Schroeder, L. (Leopold) von
+    - Von Schroeder, Leopold
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '36250'
+    url: http://www.gutenberg.org/2009/agents/36250
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33186'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry'
+- !lcc 'BL'
+- !lcsh 'Sanskrit poetry -- Translations into German'
+- !lcc 'PK'
+- !lcsh 'Hinduism -- Sacred books'
+title: 'Bhagavadgita — Des Erhabenen Sang
+
+  Religiöse Stimmen der Völker: Die Religion des alten Indien II'
+url: http://www.gutenberg.org/ebooks/33186
